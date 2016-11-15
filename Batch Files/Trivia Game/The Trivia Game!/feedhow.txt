@@ -1,9 +1,0 @@
-HOW TO SEND FEEDBACK
-
-1. Log into facebook (note that facebook will open on its own once you press any
-   key to continue.
-2. Go to your message creator and send a message to Joseph Torres. 
-   Click the "Add Attachment" icon.
-3. Once clicked, go to where you saved The Trivia Game (which is generally the 
-   desktop) and open it. Click the "FeedbackMus" or "FeedbackMec" file and press ok.
-4. After the selected "Feedback" file loads, then you send the message!
