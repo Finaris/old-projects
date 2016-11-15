@@ -1,0 +1,125 @@
+/* Body and text */
+html, body
+{
+	background-color:#FFD1A3;
+	height:100%;
+	padding:0;
+	margin:0;
+}
+
+/* Container */
+#container
+{
+	min-height:100%;
+	position:relative;
+}
+
+/* Header of the page */
+header
+{
+	border:5px solid black;
+	border-left:0;
+	border-right:0;
+	background-color:white;
+	color:black;
+	padding:5px;
+	text-align:center;
+}
+
+/* Top navigating bar */
+nav ul
+{
+	padding:0;
+}
+nav ul li
+{
+	display:inline;
+}
+nav ul li a
+{
+	background-color:white;
+	color:black;
+	padding:10px 30px;
+	border:1px solid black;
+	border-radius:5px 5px 0 0;
+	text-decoration:none;
+}
+nav ul li a:hover
+{
+	background-color:#FFA366;
+}
+
+/* Section */
+section
+{
+	text-align:center;
+	padding:10px;
+}
+section img
+{
+	background-size:cover;
+	display: inline-block;
+	padding:10px;
+	width:400px;
+	height:300px;
+}
+section.breeds p
+{
+	font-size:20px;
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px
+}
+
+/* Footer */
+footer
+{
+	text-align:center;
+	color:black;
+	background:white;
+	clear:both;
+	position:fixed;
+	height:25px;
+	bottom:0;
+	width:100%;
+}
+
+/* Sidebars */
+aside.right
+{
+	background-color:#FFF5EB;
+	border:3px solid black;
+	border-right:0;
+	width:150px;
+	height:535px;
+	padding:5px;
+	float:right;
+}
+aside.right ul
+{
+	padding:18px;
+}
+aside.right li
+{
+	padding:5px;
+}
+aside.left
+{
+	background-color:#FFF5EB;
+	border:3px solid black;
+	border-left:0;
+	width:125px;
+	height:300px;
+	line-height:30px;
+	padding:5px;
+	float:left;
+}
+aside.left a:link
+{
+	text-decoration:none;
+	color:black;
+}
+aside.left a:hover
+{
+	text-decoration:underline;
+}
