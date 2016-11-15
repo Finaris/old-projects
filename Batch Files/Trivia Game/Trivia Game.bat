@@ -192,6 +192,7 @@ if %choice%==3 goto ode
 if %choice%==4 goto dre
 if %choice%==5 goto bi
 if %choice%==6 goto options
+REM These options won't work if you clone this repository since I removed these files from the project
 :boh
 start bohemian.mp3
 goto music
