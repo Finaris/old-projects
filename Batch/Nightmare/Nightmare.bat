@@ -3,7 +3,7 @@ title Nightmare
 color 0b
 :main
 echo                          *-________Nightmare_________-*
-echo.                               Created by Joseph Torres
+echo.                               Created by Madelyn Torres
 echo                          \___________________________/
 echo                          _____________________________
 echo. 

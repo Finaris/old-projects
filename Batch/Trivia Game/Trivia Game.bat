@@ -5,7 +5,7 @@ echo.
 echo.
 echo                                                             The Trivia Game! v1.1.0
 echo.
-echo                                                           Created by Joseph Torres
+echo                                                           Created by Madelyn Torres
 ping localhost -n 5 >nul
 goto a
 :a
@@ -84,7 +84,7 @@ goto b
 :info
 cls
 echo Well, I am honestly shocked that you would come here so cheers!
-echo Anyway, Basically this simple trivia game was made by Joseph Torres.
+echo Anyway, Basically this simple trivia game was made by Madelyn Torres.
 echo Simple scripting use batch files, and soon (hopefully) Java/C++/Python!
 echo Regardless, I must give my thanks for actually looking at this!
 echo (Note: Pressing any key to continue will take you to the main menu!)
